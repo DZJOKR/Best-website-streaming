@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(121, 121, 121);
+}
+nav{
+  text-align: end
+}
+
+
+li{
+    text-decoration:underline; 
+    font-style: italic;
+    font-family: cursive;
+}
+a{
+    font-family: serif;
+}
+
+h3{
+    color: rgb(173, 56, 56);
+}
+.h15{
+    color: rgb(201, 165, 66);
+}
+h2{
+    size: 50px;
+}
+nav a{
+    text-decoration: none;
+    padding: 5px;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslategray;
+    
+}
+input{
+    color: black;
+    background: gray;
+    width: 100px;
+    margin-left: 25px;
+} 
+textarea{
+    text-align: center;
+}
+.gmail{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 25px;
+}
+.entre{
+    margin-left: 25px;
+}
+h4{
+    margin-left: 25px;
+}
+h2{
+    margin-left: 25px;
+}
+h3{
+    margin-left: 25px;
+    color: blue;
+}
+div a{
+    color: rgb(255, 0, 0);
+}
+
+
