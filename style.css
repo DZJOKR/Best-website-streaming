@@ -5,6 +5,7 @@ body{
 }
 nav{
   text-align: end
+  
 }
 
 
@@ -39,14 +40,23 @@ input{
     background: gray;
     width: 100px;
     margin-left: 25px;
+    font-size: 15px;
 } 
 textarea{
     text-align: center;
 }
 .gmail{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
     margin: 25px;
+    background-color: black;
+    width: 220px;
+    height: 2px;
+    
 }
+
+
+
 .entre{
     margin-left: 25px;
 }
@@ -63,5 +73,7 @@ h3{
 div a{
     color: red;
 }
-
-
+div h4{
+    text-decoration: none;
+    font-family: sans-serif;
+}
